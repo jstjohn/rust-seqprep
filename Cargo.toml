@@ -1,0 +1,8 @@
+[package]
+name = "rust-seqprep"
+version = "0.1.0"
+authors = ["jstjohn"]
+
+[dependencies]
+bio = "*"
+clap = "2"
